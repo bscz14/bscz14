@@ -8,7 +8,7 @@
 ![Bruno Carneiro GitHub stats](https://github-readme-stats.vercel.app/api?username=bscz14&show_icons=true&theme=tokyonight)
 
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bscz14&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Tecnlogias que uso no meu dia
 
